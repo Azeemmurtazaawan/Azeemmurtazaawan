@@ -1,6 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Azeemmurtazaawan&label=Profile%20views&color=0e75b6&style=flat" alt="Azeemmurtazaawan" /> </p>
 # Hello, I'm Azeem Murtaza Awan! 👋
 
 I'm a passionate learner based in [Your Location] with a strong interest in web development. I'm currently focused on honing my skills in HTML5, JavaScript, CSS, and Bootstrap to build amazing web applications.
+
 
 - 🔭 I’m currently working on improving my web development skills.
 - 🌱 I’m currently learning HTML5, JavaScript, CSS, and Bootstrap.
