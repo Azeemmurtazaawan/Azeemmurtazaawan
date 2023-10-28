@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Azeem Murtaza Awan! 👋
 
-<!--
-**Azeemmurtazaawan/Azeemmurtazaawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner based in [Your Location] with a strong interest in web development. I'm currently focused on honing my skills in HTML5, JavaScript, CSS, and Bootstrap to build amazing web applications.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving my web development skills.
+- 🌱 I’m currently learning HTML5, JavaScript, CSS, and Bootstrap.
+- 💬 Ask me about web development and front-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+
+## My Top Programming Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername)
+
+## Connect with Me
+
+Let's connect and learn together:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://www.linkedin.com/in/azeemawan/)
+- [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue)](https://twitter.com/Azeemaw73308053)
+
+Thanks for visiting my profile!
